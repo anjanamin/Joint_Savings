@@ -6,8 +6,8 @@ Created a joint savings smart contract for 2 addresses
 Use the `setAccounts` function to define the authorized Ethereum address that will be able to withdraw funds from your contract
 
 Setting Account addresses:
+<<<<<<< HEAD
 ![setting accounts](Execution_Results/setAccounts.jpg)
-
 
 Test the deposit functionality of your smart contract by sending the following amounts of ether. After each transaction, use the `contractBalance` function to verify that the funds were added to your contract:
 
@@ -32,3 +32,4 @@ Withdraw 10 ether into 'accountTwo'
 
 Require functionality blocked non approved withdraw
 ![Rejected](Execution_Results/rejected.jpg)
+
